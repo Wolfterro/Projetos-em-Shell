@@ -1,0 +1,19 @@
+Agenda Telefônica
+=================
+
+Gerencie seus contatos com este simples script em Dialog!
+---------------------------------------------------------
+
+CHANGELOG:
+==========
+
+VERSÃO 1.1:
+- BUGFIX: Corrigido problema de remoção de contatos com mesmo nome inicial (Ex: Fulano e Fulano da Silva).
+- DOCS: Adicionada licença MIT no arquivo de código-fonte do script.
+
+#---------------------------------------------------------------------------------------------------------
+
+VERSÃO 1.0:
+- RELEASE: Versão inicial do script.
+
+#---------------------------------------------------------------------------------------------------------
