@@ -8,6 +8,8 @@
 
 ![Agenda Telefônica](http://i.imgur.com/3vPaCYJ.png)
 
+## [Verifique o CHANGELOG.txt para maiores informações sobre novas versões!](https://raw.github.com/Wolfterro/Projetos-em-Shell/master/Agenda%20Telefônica/CHANGELOG.txt)
+
 ###### O script, então, irá criar o arquivo 'contatos.txt' no diretório atual do script. É neste arquivo que todos os seus contatos estarão armazenados.
 ###### Para adicionar um contato, basta selecionar a opção Adicionar, inserir um nome para o contato e o seu número de telefone, celular, e-mail, etc (apesar do nome, o script não limita o tipo de contato que você deseja adicionar).
 ###### Para remover um contato, basta selecionar a opção Remover e inserir o nome do contato que você deseja apagar.
